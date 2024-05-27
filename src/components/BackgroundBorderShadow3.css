@@ -1,0 +1,153 @@
+.container-icon153 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-wrapper143 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 13.7px;
+}
+.united-arab-emirates1 {
+  position: relative;
+  line-height: 28px;
+}
+.from153 {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+}
+.span153 {
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.from-128 {
+  margin-right: -0.8000000000029104px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 82px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+  white-space: nowrap;
+}
+.from-12-wrapper6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.usd153 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.22px;
+  line-height: 23.4px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 31.5px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.frame-parent436 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 18px;
+  font-family: Roboto;
+}
+.united-arab-emirates-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16.1px;
+}
+.backgroundbordershadow-inner152,
+.frame-parent435 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent435 {
+  align-items: flex-end;
+  gap: 16px;
+}
+.backgroundbordershadow-inner152 {
+  flex: 1;
+  align-items: flex-start;
+  padding: 0 18px;
+}
+.view-offers153 {
+  margin-right: -0.3000000000029104px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 86.9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.view-offers-wrapper145 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.east153 {
+  width: 16.4px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 16px;
+  font-family: "Material Icons";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 16.4px;
+  debug_commit: bf4bc93;
+}
+.backgroundbordershadow153,
+.frame-parent437 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #2d4156;
+}
+.backgroundbordershadow153 {
+  height: 150.7px;
+  width: 416px;
+  box-shadow: 0 0 3px rgba(4, 4, 52, 0.09), 0 4px 8px rgba(4, 4, 52, 0.05),
+    0 6px 12px rgba(4, 4, 52, 0.02);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(4, 4, 52, 0.1);
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 32px 15px 17.1px;
+  gap: 13.4px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .united-arab-emirates1 {
+    font-size: 17px;
+    line-height: 22px;
+  }
+}

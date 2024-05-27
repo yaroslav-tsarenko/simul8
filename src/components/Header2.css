@@ -1,0 +1,117 @@
+.internet-1-icon2 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.simul84 {
+  position: relative;
+  line-height: 53px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+.internet-1-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.item-link10,
+.item-link11 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+  display: inline-block;
+  min-width: 46.6px;
+}
+.item-link11 {
+  color: #000;
+  min-width: 40.1px;
+}
+.item-link12 {
+  display: inline-block;
+  min-width: 107.2px;
+  white-space: nowrap;
+}
+.item-link12,
+.item-link13,
+.item-link14 {
+  text-decoration: none;
+  position: relative;
+  line-height: 20px;
+  color: inherit;
+}
+.item-link13 {
+  width: 48.5px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-link14 {
+  display: inline-block;
+  min-width: 68.4px;
+  white-space: nowrap;
+}
+.nav-list2 {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 12.5px 20px 13.5px;
+  gap: 20px;
+  text-align: left;
+  font-size: 18px;
+  color: #3d3d3d;
+  font-family: "Open Sans";
+}
+.container3,
+.header2,
+.nav-list-frame {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.nav-list-frame {
+  margin: 0;
+  width: 509.1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 3.5px 0 0;
+}
+.container3,
+.header2 {
+  flex-direction: row;
+}
+.container3 {
+  width: 1680px;
+  justify-content: space-between;
+  padding: 5px 10px;
+  gap: 20px;
+}
+.header2 {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  justify-content: center;
+  padding: 13.5px 20px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: "DM Sans";
+}
+@media screen and (max-width: 800px) {
+  .nav-list-frame {
+    display: none;
+  }
+  .container3 {
+    width: 1170.9000000000017px;
+  }
+}

@@ -1,0 +1,47 @@
+.contact-info-parent,
+.contact-us-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.contact-info-parent {
+  width: 1667px;
+  gap: 45px;
+}
+.contact-us-inner {
+  align-self: stretch;
+  padding: 0 20px 0 24px;
+  box-sizing: border-box;
+}
+.contact-us {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 64px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .contact-info-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .contact-us {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .contact-info-parent {
+    gap: 22px;
+  }
+  .contact-us {
+    gap: 16px;
+  }
+}

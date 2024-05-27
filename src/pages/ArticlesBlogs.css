@@ -1,0 +1,932 @@
+.heading-2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 28px;
+  line-height: 28px;
+  font-weight: 500;
+  font-family: Poppins;
+  text-align: center;
+}
+.link-icon {
+  height: 310.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.link-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link-read {
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 81.3px;
+}
+.link-read-more-about-best-es-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 9px;
+}
+.horizontalborder {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 36.6px;
+  font-family: "Open Sans";
+  font-size: 12px;
+  color: #adadad;
+}
+.article {
+  flex: 1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  min-width: 361px;
+  max-width: 100%;
+}
+.container-icon,
+.gradient-icon {
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container-icon {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+}
+.gradient-icon {
+  height: 310.8px;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.link,
+.link-container {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.link {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.link-container {
+  align-self: stretch;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+}
+.article-parent,
+.article1,
+.link-container {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.article1 {
+  flex: 1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  min-width: 361px;
+}
+.article-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  color: #54595f;
+}
+.container-icon1,
+.gradient-icon1 {
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container-icon1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+}
+.gradient-icon1 {
+  height: 310.8px;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.link-frame,
+.link1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link1 {
+  flex: 1;
+  position: relative;
+}
+.link-frame {
+  align-self: stretch;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+}
+.link-read1 {
+  position: relative;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 81.3px;
+}
+.link-read-more-about-best-es-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 9px;
+}
+.horizontalborder1 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 36.6px;
+  font-family: "Open Sans";
+  font-size: 12px;
+  color: #adadad;
+}
+.article2,
+.container-icon2 {
+  max-width: 100%;
+  overflow: hidden;
+}
+.article2 {
+  align-self: stretch;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.container-icon2 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame-div,
+.gradient,
+.link2 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.gradient {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.frame-div,
+.link2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link2 {
+  flex: 1;
+  position: relative;
+}
+.frame-div {
+  height: 318.8px;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+}
+.best-esim-for,
+.canadas-largest-city {
+  margin: 0;
+}
+.best-esim-for-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.are-you-planning,
+.business-opportunities-to,
+.connected-with-a,
+.largest-city-toronto,
+.toronto-comes {
+  display: block;
+}
+.are-you-planning-container {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  color: #777;
+}
+.best-esim-for-toronto-stay-co-parent {
+  flex-direction: column;
+  gap: 25px;
+}
+.article-group,
+.article-inner,
+.article3,
+.best-esim-for-toronto-stay-co-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.article-inner {
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.article-group,
+.article3 {
+  flex-direction: column;
+  gap: 32px;
+}
+.article3 {
+  align-self: stretch;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+  font-size: 21px;
+  color: #000;
+}
+.article-group {
+  flex: 1;
+  min-width: 361px;
+}
+.container-icon3,
+.gradient-icon2 {
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container-icon3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+}
+.gradient-icon2 {
+  height: 310.8px;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.link-wrapper1,
+.link3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link3 {
+  flex: 1;
+  position: relative;
+}
+.link-wrapper1 {
+  align-self: stretch;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+}
+.best-esim-for1,
+.swedens-scenic-capital {
+  margin: 0;
+}
+.best-esim-for-container1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.access-to-mobile,
+.as-an-avid,
+.posting-photos-on,
+.visit-a-new {
+  display: block;
+}
+.as-an-avid-container {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  color: #777;
+}
+.article-child,
+.best-esim-for-stockholm-stay-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.best-esim-for-stockholm-stay-parent {
+  flex-direction: column;
+  gap: 25px;
+}
+.article-child {
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.article4,
+.container-icon4 {
+  max-width: 100%;
+  overflow: hidden;
+}
+.article4 {
+  align-self: stretch;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.container-icon4 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gradient1 {
+  align-self: stretch;
+  flex: 1;
+  z-index: 1;
+}
+.gradient1,
+.heading-3,
+.link4 {
+  position: relative;
+  max-width: 100%;
+}
+.link4 {
+  align-self: stretch;
+  height: 310.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-3 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.any-huawei-phones,
+.esim-on-those,
+.ive-got-a {
+  display: block;
+}
+.ive-got-a-container {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  color: #777;
+}
+.heading-3-link-does-huawei-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+  max-width: 100%;
+}
+.link-read2 {
+  position: relative;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #54595f;
+  min-width: 81.3px;
+}
+.article-inner1,
+.frame-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+}
+.article-inner1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px 43px 20px;
+  box-sizing: border-box;
+}
+.horizontalborder2 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 36.6px;
+  font-family: "Open Sans";
+  font-size: 12px;
+  color: #adadad;
+}
+.article5 {
+  align-self: stretch;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.article-container,
+.article5,
+.frame-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.article-container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  min-width: 361px;
+  font-size: 21px;
+  color: #000;
+}
+.frame-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  color: #54595f;
+}
+.container-icon5 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gradient2,
+.link5 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+}
+.gradient2 {
+  flex: 1;
+  z-index: 1;
+}
+.link5 {
+  height: 310.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading-31 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.esim-compatible-or,
+.im-thinking-about,
+.sure-if-my {
+  display: block;
+}
+.im-thinking-about-container {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  color: #777;
+}
+.heading-3-link-does-huawei-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.link-read3 {
+  position: relative;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #54595f;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 81.3px;
+}
+.article-inner2,
+.frame-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  flex-direction: column;
+  gap: 32px;
+}
+.article-inner2 {
+  flex-direction: row;
+  padding: 0 20px 22px;
+  box-sizing: border-box;
+}
+.horizontalborder3 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 36.6px;
+  font-family: "Open Sans";
+  font-size: 12px;
+  color: #adadad;
+}
+.article6,
+.container-icon6 {
+  max-width: 100%;
+  overflow: hidden;
+}
+.article6 {
+  flex: 1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  min-width: 361px;
+}
+.container-icon6 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gradient3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  z-index: 1;
+}
+.link-wrapper2,
+.link6 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.link6 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.link-wrapper2 {
+  height: 318.8px;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+}
+.article-parent1,
+.article7,
+.link-wrapper2 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.article7 {
+  flex: 1;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+  min-width: 361px;
+}
+.article-parent1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+.container-icon7 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gradient4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  z-index: 1;
+}
+.link-wrapper3,
+.link7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.link7 {
+  flex: 1;
+  position: relative;
+}
+.link-wrapper3 {
+  height: 318.8px;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+}
+.heading-32 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.offering-users-a,
+.the-huawei-p40 {
+  display: block;
+}
+.the-huawei-p40-container {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  color: #777;
+}
+.article-inner3,
+.heading-3-link-does-huawei-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heading-3-link-does-huawei-container {
+  flex-direction: column;
+  gap: 25px;
+}
+.article-inner3 {
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.article8 {
+  width: 555px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.article8,
+.frame-container,
+.heading-2-latest-articles-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.frame-container {
+  align-self: stretch;
+  font-size: 21px;
+}
+.heading-2-latest-articles-parent {
+  width: 1140px;
+}
+.articlesblogs,
+.background-parent,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 12px;
+  color: #000;
+  font-family: "Open Sans";
+}
+.articlesblogs,
+.background-parent {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.background-parent {
+  align-self: stretch;
+  padding: 0 0 63.9px;
+  gap: 64px;
+  max-width: 100%;
+}
+.articlesblogs {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  padding: 0 0 0.1px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .background-parent {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .background-parent {
+    gap: 32px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .article,
+  .article-group,
+  .article1,
+  .article2,
+  .article3,
+  .article4,
+  .frame-group {
+    gap: 16px;
+  }
+  .article5 {
+    gap: 20px;
+  }
+  .article-container,
+  .frame-parent1 {
+    gap: 16px;
+  }
+  .article6 {
+    gap: 20px;
+  }
+  .article7,
+  .article8,
+  .background-parent,
+  .frame-container,
+  .heading-2-latest-articles-parent {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-2 {
+    font-size: 22px;
+    line-height: 22px;
+  }
+  .article,
+  .article1 {
+    min-width: 100%;
+  }
+  .best-esim-for-container {
+    font-size: 17px;
+    line-height: 17px;
+  }
+  .article-group {
+    min-width: 100%;
+  }
+  .best-esim-for-container1,
+  .heading-3 {
+    font-size: 17px;
+    line-height: 17px;
+  }
+  .article-container {
+    min-width: 100%;
+  }
+  .heading-31 {
+    font-size: 17px;
+    line-height: 17px;
+  }
+  .article6,
+  .article7 {
+    min-width: 100%;
+  }
+  .heading-32 {
+    font-size: 17px;
+    line-height: 17px;
+  }
+}

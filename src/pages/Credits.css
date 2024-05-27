@@ -1,0 +1,159 @@
+.credits-package,
+.indulge-your-furry2 {
+  width: 728px;
+  position: relative;
+  max-width: 100%;
+}
+.credits-package {
+  line-height: 120%;
+  font-weight: 700;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.indulge-your-furry2 {
+  height: 24px;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Nunito Sans";
+  color: #010007;
+  display: none;
+}
+.credits-package-parent {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 48px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: "Open Sans";
+}
+.all-credit-packs,
+.default-sorting,
+.sort-by {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 114px;
+}
+.default-sorting,
+.sort-by {
+  min-width: 53px;
+}
+.default-sorting {
+  min-width: 112px;
+}
+.icon-dropdown {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.default-sorting-parent {
+  border-radius: 4px;
+  border: 1px solid #8a8a8a;
+  justify-content: flex-start;
+  padding: 6px 15px;
+  gap: 16px;
+  white-space: nowrap;
+}
+.all-credit-packs-parent,
+.default-sorting-parent,
+.sort-by-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.sort-by-parent {
+  justify-content: flex-start;
+  gap: 16px;
+  color: #8a8a8a;
+}
+.all-credit-packs-parent {
+  width: 1536px;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+}
+.credit,
+.credit-pack-parent,
+.credits {
+  display: flex;
+  justify-content: flex-start;
+}
+.credit-pack-parent {
+  width: 1536px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 85px 44px;
+  min-height: 1304px;
+  max-width: 100%;
+}
+.credit,
+.credits {
+  flex-direction: column;
+}
+.credit {
+  align-self: stretch;
+  background-color: #fefefe;
+  overflow: hidden;
+  align-items: center;
+  padding: 0 20px 64px;
+  box-sizing: border-box;
+  gap: 85px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "Open Sans";
+}
+.credits {
+  width: 100%;
+  position: relative;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .credit {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .credits-package {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .credit-pack-parent {
+    gap: 22px;
+  }
+  .credit {
+    gap: 42px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .credits-package {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .all-credit-packs-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .credit {
+    gap: 21px;
+  }
+}

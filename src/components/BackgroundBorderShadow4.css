@@ -1,0 +1,146 @@
+.container-icon152 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-wrapper142 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 13.7px;
+}
+.united-states {
+  align-self: stretch;
+  position: relative;
+  line-height: 27.3px;
+}
+.from152 {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+}
+.span152 {
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.from-510,
+.usd152 {
+  position: relative;
+  line-height: 23.4px;
+  display: inline-block;
+  min-width: 70.2px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.usd152 {
+  letter-spacing: 0.22px;
+  font-weight: 500;
+  min-width: 31.5px;
+}
+.u-s-offer-prices {
+  flex-direction: column;
+  padding: 1.5px 0 0;
+  margin-left: -0.3px;
+  font-size: 14px;
+}
+.u-s-offer-locations,
+.u-s-offer-origins,
+.u-s-offer-prices {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.u-s-offer-origins {
+  flex-direction: row;
+  font-size: 18px;
+  font-family: Roboto;
+}
+.u-s-offer-locations {
+  flex: 1;
+  flex-direction: column;
+  gap: 15.8px;
+}
+.backgroundbordershadow-inner151,
+.frame-parent434 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent434 {
+  width: 181.3px;
+  align-items: flex-end;
+  gap: 16px;
+}
+.backgroundbordershadow-inner151 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 18px;
+}
+.view-offers152 {
+  margin-right: -0.3000000000029104px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.2px;
+  display: inline-block;
+  min-width: 86.9px;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.u-s-offer-buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.east152 {
+  width: 16.4px;
+  position: relative;
+  text-decoration: underline;
+  line-height: 16px;
+  font-family: "Material Icons";
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 16.4px;
+  debug_commit: bf4bc93;
+}
+.backgroundbordershadow152,
+.u-s-offer-actions {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #2d4156;
+}
+.backgroundbordershadow152 {
+  flex: 1;
+  box-shadow: 0 0 3px rgba(4, 4, 52, 0.09), 0 4px 8px rgba(4, 4, 52, 0.05),
+    0 6px 12px rgba(4, 4, 52, 0.02);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(4, 4, 52, 0.1);
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 31px 15px 16px;
+  gap: 13.4px;
+  min-width: 312px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .united-states {
+    font-size: 17px;
+    line-height: 22px;
+  }
+}

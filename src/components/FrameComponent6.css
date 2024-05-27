@@ -1,0 +1,345 @@
+.internet-2-icon2 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: contain;
+}
+.simul85 {
+  position: relative;
+  line-height: 53px;
+  font-weight: 700;
+}
+.logo2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  font-family: "DM Sans";
+}
+.consumers-to-find2,
+.simul8-is-a2,
+.their-favorite-e-commerce2 {
+  display: block;
+}
+.simul8-is-a-container2 {
+  margin: 0;
+  position: relative;
+  line-height: 19.5px;
+}
+.pacific-coast-hwy3,
+.simlu8-connect-llc2 {
+  display: block;
+}
+.simlu8-connect-llc-container2 {
+  margin: 0;
+  position: relative;
+  line-height: 19.5px;
+}
+.simul8-is-a-digital-channel-fo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 38px;
+  max-width: 100%;
+}
+.footer-description,
+.footer-description-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-description-wrapper {
+  flex-direction: column;
+  padding: 46.7px 0 0;
+  box-sizing: border-box;
+  color: #c1bca8;
+}
+.quick-links2 {
+  position: relative;
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  display: inline-block;
+  min-width: 80px;
+}
+.link-blog2,
+.link-shop2 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+  min-width: 31.3px;
+}
+.link-blog2 {
+  color: inherit;
+  min-width: 27px;
+}
+.link-about2 {
+  color: inherit;
+  min-width: 37px;
+}
+.link-about2,
+.link-contact2,
+.link-destinations2 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+}
+.link-contact2 {
+  color: inherit;
+  min-width: 47px;
+}
+.link-destinations2 {
+  min-width: 76.3px;
+}
+.svg-icon2 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.footer-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 0 0;
+}
+.footer-icon-space {
+  position: relative;
+  line-height: 27px;
+  white-space: nowrap;
+}
+.footer-icon-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9.8px;
+  font-size: 18px;
+  color: #fffefd;
+}
+.footer-links-list,
+.footer-links-list-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-links-list {
+  gap: 10px;
+}
+.footer-links-list-wrapper {
+  padding: 11px 0 0;
+}
+.regions2 {
+  position: relative;
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  display: inline-block;
+  min-width: 55.3px;
+}
+.link-esim24 {
+  display: inline-block;
+  min-width: 98px;
+}
+.link-esim24,
+.link-esim25,
+.link-esim26,
+.link-esim27 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+}
+.link-esim25 {
+  display: inline-block;
+  min-width: 79.3px;
+}
+.link-esim26,
+.link-esim27 {
+  white-space: nowrap;
+}
+.link-esim28,
+.link-esim29,
+.link-esim30 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+  min-width: 104px;
+}
+.link-esim29,
+.link-esim30 {
+  min-width: 89px;
+}
+.link-esim30 {
+  min-width: 125px;
+}
+.regions-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.countries2 {
+  position: relative;
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  display: inline-block;
+  min-width: 68px;
+}
+.link-esim31,
+.link-esim32 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+  min-width: 79.2px;
+}
+.link-esim32 {
+  min-width: 88.2px;
+}
+.link-esim33 {
+  display: inline-block;
+  min-width: 100.2px;
+}
+.link-esim33,
+.link-esim34,
+.link-esim35 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+}
+.link-esim34 {
+  display: inline-block;
+  min-width: 116px;
+}
+.link-esim35 {
+  white-space: nowrap;
+}
+.countries-list,
+.countries-list-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.countries-list {
+  gap: 10px;
+}
+.countries-list-wrapper {
+  padding: 29.5px 0 0;
+}
+.footer-content1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 13px;
+  color: #988686;
+}
+.privacy-policy2,
+.refunds-policy2,
+.terms-conditions2 {
+  text-decoration: underline;
+  color: #a2b5b8;
+}
+.simul8-privacy-policy-terms-container5 {
+  width: 100%;
+}
+.simul8-privacy-policy-terms-container4 {
+  margin: 0;
+  width: 439.5px;
+  position: relative;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-facebook-link2,
+.link-instagram-link4,
+.link-instagram-link5 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.link-facebook-link2 {
+  border-radius: 50px;
+}
+.link-instagram-link-group,
+.logo-container,
+.simul8-privacy-policy-terms-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.logo-container,
+.simul8-privacy-policy-terms-group {
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  font-size: 14px;
+  color: #c1bca8;
+}
+.logo-container {
+  background-color: #000;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 64px 120px 28px;
+  box-sizing: border-box;
+  gap: 48px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1125px) {
+  .footer-content1 {
+    flex-wrap: wrap;
+  }
+  .logo-container {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .simul85 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .simul8-privacy-policy-terms-group {
+    flex-wrap: wrap;
+  }
+  .logo-container {
+    gap: 24px;
+    padding: 42px 30px 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .simul85 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .simul8-is-a-digital-channel-fo-container {
+    gap: 19px;
+  }
+  .footer-description {
+    gap: 43px;
+  }
+}

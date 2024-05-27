@@ -1,0 +1,349 @@
+.internet-2-icon1 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: contain;
+}
+.simul83 {
+  position: relative;
+  line-height: 53px;
+  font-weight: 700;
+}
+.logo1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  font-family: "DM Sans";
+}
+.consumers-to-find1,
+.simul8-is-a1,
+.their-favorite-e-commerce1 {
+  display: block;
+}
+.simul8-is-a-container1 {
+  margin: 0;
+  position: relative;
+  line-height: 19.5px;
+}
+.pacific-coast-hwy1,
+.simlu8-connect-llc1 {
+  display: block;
+}
+.simlu8-connect-llc-container1 {
+  margin: 0;
+  position: relative;
+  line-height: 19.5px;
+}
+.footer-address,
+.footer-info,
+.simul8-is-a-digital-channel-fo-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.simul8-is-a-digital-channel-fo-group {
+  flex-direction: column;
+  gap: 38px;
+}
+.footer-address,
+.footer-info {
+  flex-direction: row;
+}
+.footer-info {
+  flex-direction: column;
+  padding: 0 0 47px;
+  box-sizing: border-box;
+  min-height: 182px;
+  color: #c1bca8;
+}
+.quick-links1 {
+  position: relative;
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  display: inline-block;
+  min-width: 80px;
+}
+.link-blog1,
+.link-shop1 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+  min-width: 31.3px;
+}
+.link-blog1 {
+  color: inherit;
+  min-width: 27px;
+}
+.link-about1 {
+  color: inherit;
+  min-width: 37px;
+}
+.link-about1,
+.link-contact1,
+.link-destinations1 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+}
+.link-contact1 {
+  color: inherit;
+  min-width: 47px;
+}
+.link-destinations1 {
+  min-width: 76.3px;
+}
+.svg-icon1 {
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.svg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 0 0;
+}
+.div1 {
+  position: relative;
+  line-height: 27px;
+  white-space: nowrap;
+}
+.links-spacer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9.8px;
+  font-size: 18px;
+  color: #fffefd;
+}
+.footer-links,
+.quick-links-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.quick-links-group {
+  justify-content: flex-start;
+  gap: 10px;
+}
+.footer-links {
+  justify-content: flex-end;
+  padding: 0 0 11px;
+}
+.regions1 {
+  position: relative;
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  display: inline-block;
+  min-width: 55.3px;
+}
+.link-esim12 {
+  display: inline-block;
+  min-width: 98px;
+}
+.link-esim12,
+.link-esim13,
+.link-esim14,
+.link-esim15 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+}
+.link-esim13 {
+  display: inline-block;
+  min-width: 79.3px;
+}
+.link-esim14,
+.link-esim15 {
+  white-space: nowrap;
+}
+.link-esim16,
+.link-esim17,
+.link-esim18 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+  min-width: 104px;
+}
+.link-esim17,
+.link-esim18 {
+  min-width: 89px;
+}
+.link-esim18 {
+  min-width: 125px;
+}
+.region-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.countries1 {
+  position: relative;
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  display: inline-block;
+  min-width: 68px;
+}
+.link-esim19,
+.link-esim20 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+  display: inline-block;
+  min-width: 79.2px;
+}
+.link-esim20 {
+  min-width: 88.2px;
+}
+.link-esim21 {
+  display: inline-block;
+  min-width: 100.2px;
+}
+.link-esim21,
+.link-esim22,
+.link-esim23 {
+  position: relative;
+  text-decoration: underline;
+  line-height: 19.5px;
+}
+.link-esim22 {
+  display: inline-block;
+  min-width: 116px;
+}
+.link-esim23 {
+  white-space: nowrap;
+}
+.country-items,
+.country-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.country-items {
+  justify-content: flex-start;
+  gap: 10px;
+}
+.country-links {
+  justify-content: flex-end;
+  padding: 0 0 29.5px;
+}
+.footer-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 13px;
+  color: #988686;
+}
+.privacy-policy1,
+.refunds-policy1,
+.terms-conditions1 {
+  text-decoration: underline;
+  color: #a2b5b8;
+}
+.simul8-privacy-policy-terms-container3 {
+  width: 100%;
+}
+.simul8-privacy-policy-terms-container2 {
+  width: 439.5px;
+  position: relative;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-facebook-link1,
+.link-instagram-link2,
+.link-instagram-link3 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.link-facebook-link1 {
+  border-radius: 50px;
+}
+.copyright,
+.logo-group,
+.social-links {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.copyright,
+.logo-group {
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  font-size: 14px;
+  color: #c1bca8;
+}
+.logo-group {
+  background-color: #000;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 64px 120px 28px;
+  box-sizing: border-box;
+  gap: 48px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1000px) {
+  .footer-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 975px) {
+  .simul83 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .logo-group {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 725px) {
+  .copyright {
+    flex-wrap: wrap;
+  }
+  .logo-group {
+    gap: 24px;
+    padding: 42px 30px 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .simul83 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .simul8-is-a-digital-channel-fo-group {
+    gap: 19px;
+  }
+  .footer-address {
+    gap: 43px;
+  }
+}

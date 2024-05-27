@@ -1,0 +1,92 @@
+.heading-11 {
+  margin: 0;
+  position: relative;
+  font-size: 36px;
+  letter-spacing: -0.56px;
+  line-height: 54px;
+  font-weight: 700;
+  font-family: Roboto;
+}
+.message-to-our,
+.you-can-reach {
+  margin: 0;
+}
+.email-supportesimlu8com,
+.you-can-reach-container {
+  position: relative;
+  line-height: 27px;
+}
+.email-supportesimlu8com {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.you-can-also-container {
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+  max-width: 100%;
+}
+.this-line-is {
+  margin: 0;
+  position: relative;
+  line-height: 27px;
+}
+.our-company,
+.pacific-coast-hwy2,
+.strong-skylark {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 27px;
+}
+.our-company {
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 122px;
+}
+.pacific-coast-hwy2,
+.strong-skylark {
+  font-weight: 700;
+  font-family: Roboto;
+}
+.pacific-coast-hwy2 {
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18px;
+  min-width: 482px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1350px) {
+  .contact-info {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading-11 {
+    font-size: 29px;
+    line-height: 43px;
+  }
+  .contact-info {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-11 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+}

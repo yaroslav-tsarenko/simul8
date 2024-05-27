@@ -1,0 +1,356 @@
+.internet-2-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: contain;
+}
+.simul81 {
+  position: relative;
+  line-height: 53px;
+  font-weight: 700;
+}
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  font-family: "DM Sans";
+}
+.consumers-to-find,
+.simul8-is-a,
+.their-favorite-e-commerce {
+  display: block;
+}
+.simul8-is-a-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.5px;
+}
+.pacific-coast-hwy,
+.simlu8-connect-llc {
+  display: block;
+}
+.simlu8-connect-llc-container {
+  margin: 0;
+  position: relative;
+  line-height: 19.5px;
+}
+.frame-wrapper1,
+.frame-wrapper2,
+.simul8-is-a-digital-channel-fo-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.simul8-is-a-digital-channel-fo-parent {
+  flex-direction: column;
+  gap: 38px;
+}
+.frame-wrapper1,
+.frame-wrapper2 {
+  flex-direction: row;
+}
+.frame-wrapper1 {
+  flex-direction: column;
+  padding: 0 0 47px;
+  box-sizing: border-box;
+  min-height: 182px;
+  color: #c1bca8;
+}
+.quick-links {
+  position: relative;
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  display: inline-block;
+  min-width: 80px;
+}
+.link-about,
+.link-blog,
+.link-contact,
+.link-destinations,
+.link-shop {
+  text-decoration: underline;
+  position: relative;
+  line-height: 19.5px;
+  color: inherit;
+  display: inline-block;
+  min-width: 31.3px;
+}
+.link-about,
+.link-blog,
+.link-contact,
+.link-destinations {
+  min-width: 27px;
+}
+.link-about,
+.link-contact,
+.link-destinations {
+  min-width: 37px;
+}
+.link-contact,
+.link-destinations {
+  min-width: 47px;
+}
+.link-destinations {
+  min-width: 76.3px;
+}
+.svg-icon {
+  width: 18px;
+  height: 18px;
+  position: relative;
+}
+.svg-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 0 0;
+}
+.div {
+  position: relative;
+  line-height: 27px;
+  white-space: nowrap;
+}
+.frame-parent426 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9.8px;
+  font-size: 18px;
+  color: #fffefd;
+}
+.frame-wrapper3,
+.quick-links-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.quick-links-parent {
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-wrapper3 {
+  justify-content: flex-end;
+  padding: 0 0 11px;
+}
+.link-esim,
+.regions {
+  position: relative;
+  display: inline-block;
+}
+.regions {
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  min-width: 55.3px;
+}
+.link-esim {
+  text-decoration: underline;
+  line-height: 19.5px;
+  color: inherit;
+  min-width: 98px;
+}
+.link-esim1 {
+  display: inline-block;
+  min-width: 79.3px;
+}
+.link-esim1,
+.link-esim2,
+.link-esim3,
+.link-esim4,
+.link-esim5,
+.link-esim6 {
+  text-decoration: underline;
+  position: relative;
+  line-height: 19.5px;
+  color: inherit;
+}
+.link-esim2,
+.link-esim3 {
+  white-space: nowrap;
+}
+.link-esim4,
+.link-esim5,
+.link-esim6 {
+  display: inline-block;
+  min-width: 104px;
+}
+.link-esim5,
+.link-esim6 {
+  min-width: 89px;
+}
+.link-esim6 {
+  min-width: 125px;
+}
+.regions-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.countries,
+.link-esim7,
+.link-esim8 {
+  position: relative;
+  display: inline-block;
+}
+.countries {
+  font-size: 15px;
+  line-height: 22.5px;
+  color: #c1bca8;
+  min-width: 68px;
+}
+.link-esim7,
+.link-esim8 {
+  text-decoration: underline;
+  line-height: 19.5px;
+  color: inherit;
+  min-width: 79.2px;
+}
+.link-esim8 {
+  min-width: 88.2px;
+}
+.link-esim9 {
+  display: inline-block;
+  min-width: 100.2px;
+}
+.link-esim10,
+.link-esim11,
+.link-esim9 {
+  text-decoration: underline;
+  position: relative;
+  line-height: 19.5px;
+  color: inherit;
+}
+.link-esim10 {
+  display: inline-block;
+  min-width: 116px;
+}
+.link-esim11 {
+  white-space: nowrap;
+}
+.countries-parent,
+.frame-wrapper4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.countries-parent {
+  justify-content: flex-start;
+  gap: 10px;
+}
+.frame-wrapper4 {
+  justify-content: flex-end;
+  padding: 0 0 29.5px;
+}
+.frame-parent425 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+  font-size: 13px;
+  color: #988686;
+}
+.privacy-policy,
+.refunds-policy,
+.terms-conditions {
+  text-decoration: underline;
+  color: #a2b5b8;
+}
+.simul8-privacy-policy-terms-container1 {
+  width: 100%;
+}
+.simul8-privacy-policy-terms-container {
+  margin: 0;
+  width: 439.5px;
+  position: relative;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.link-facebook-link,
+.link-instagram-link,
+.link-instagram-link1 {
+  height: 20px;
+  width: 20px;
+  position: relative;
+  min-height: 20px;
+}
+.link-facebook-link {
+  border-radius: 50px;
+}
+.link-instagram-link-parent,
+.logo-parent,
+.simul8-privacy-policy-terms-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.logo-parent,
+.simul8-privacy-policy-terms-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  max-width: 100%;
+  font-size: 14px;
+  color: #c1bca8;
+}
+.logo-parent {
+  background-color: #000;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 64px 120px 28px;
+  box-sizing: border-box;
+  gap: 48px;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1050px) {
+  .simul81 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .frame-parent425 {
+    flex-wrap: wrap;
+  }
+  .logo-parent {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .simul8-privacy-policy-terms-parent {
+    flex-wrap: wrap;
+  }
+  .logo-parent {
+    gap: 24px;
+    padding: 42px 30px 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .simul81 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .simul8-is-a-digital-channel-fo-parent {
+    gap: 19px;
+  }
+  .frame-wrapper2 {
+    gap: 43px;
+  }
+}

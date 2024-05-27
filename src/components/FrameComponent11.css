@@ -1,0 +1,94 @@
+.container-icon154 {
+  width: 40px;
+  height: 40px;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.container-wrapper144 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 26.7px;
+}
+.calls,
+.thailand-50gb-10days {
+  margin: 0;
+}
+.thailand-50gb-10days-container {
+  position: relative;
+  line-height: 27.3px;
+}
+.b,
+.usd154 {
+  position: relative;
+  display: inline-block;
+}
+.b {
+  letter-spacing: 1px;
+  line-height: 24px;
+  font-weight: 600;
+  min-width: 20px;
+  white-space: nowrap;
+}
+.usd154 {
+  line-height: 18px;
+  min-width: 28px;
+}
+.usd-wrapper24 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1.3px;
+  font-size: 12px;
+  font-family: "Open Sans";
+}
+.parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  font-size: 16px;
+  font-family: Roboto;
+}
+.thailand-50gb-10days-with-call-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15.7px;
+}
+.frame-parent438,
+.frame-wrapper9 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-parent438 {
+  align-items: flex-end;
+  justify-content: center;
+  gap: 16px;
+}
+.frame-wrapper9 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: -0.7px;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .thailand-50gb-10days-container {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .frame-parent438 {
+    flex-wrap: wrap;
+  }
+}

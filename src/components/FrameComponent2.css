@@ -1,0 +1,50 @@
+.heading-34 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 21px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.are-you-planning2,
+.avoid-expensive-roaming,
+.compare,
+.on-your-unlocked,
+.way-to-stay {
+  display: block;
+}
+.are-you-planning-container2 {
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 21px;
+  color: #777;
+}
+.article-inner5,
+.heading-3-link-best-esim-f-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.heading-3-link-best-esim-f-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 25px;
+}
+.article-inner5 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 25px 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 21px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 450px) {
+  .heading-34 {
+    font-size: 17px;
+    line-height: 17px;
+  }
+}

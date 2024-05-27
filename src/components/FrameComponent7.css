@@ -1,0 +1,194 @@
+.background1 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 56px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.rectangle {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.input-fields,
+.rectangle-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-wrapper {
+  height: 1px;
+  flex-direction: row;
+  padding: 0 12px;
+  box-sizing: border-box;
+}
+.input-fields {
+  flex-direction: column;
+  gap: 8px;
+}
+.background2 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 56px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.rectangle1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.input-fields1,
+.rectangle-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-container {
+  height: 1px;
+  flex-direction: row;
+  padding: 0 12px;
+  box-sizing: border-box;
+}
+.input-fields1 {
+  flex-direction: column;
+  gap: 8px;
+}
+.background3 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 56px;
+  font-family: "Open Sans";
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.rectangle2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.input-fields2,
+.rectangle-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-frame {
+  height: 1px;
+  flex-direction: row;
+  padding: 0 12px;
+  box-sizing: border-box;
+}
+.input-fields2 {
+  flex-direction: column;
+  gap: 8px;
+}
+.border1 {
+  height: 145px;
+  width: 1140px;
+  position: relative;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.24);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.enter-your-message {
+  width: 164px;
+  position: relative;
+  letter-spacing: 0.15px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: bf4bc93;
+}
+.container4 {
+  height: 20px;
+  width: 154.8px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.5px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.background4,
+.rectangle3 {
+  align-self: stretch;
+  flex: 1;
+  max-width: 100%;
+}
+.background4 {
+  border-radius: 8px;
+  background-color: #fffefd;
+  border: 1px solid rgba(0, 0, 0, 0.24);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18px 12px;
+}
+.rectangle3 {
+  position: relative;
+}
+.input-fields3,
+.rectangle-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-wrapper1 {
+  height: 1px;
+  flex-direction: row;
+  padding: 0 12px;
+  box-sizing: border-box;
+}
+.input-fields3 {
+  height: 154px;
+  flex-direction: column;
+  gap: 8px;
+}
+.button {
+  align-self: stretch;
+  height: 46.3px;
+}
+.input-fields-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+  min-width: 741px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.6);
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1125px) {
+  .input-fields-parent {
+    min-width: 100%;
+  }
+}

@@ -1,0 +1,74 @@
+.heading-35,
+.step-3 {
+  margin: 0;
+  position: relative;
+}
+.step-3 {
+  font-size: inherit;
+  letter-spacing: -0.56px;
+  line-height: 54px;
+  font-weight: 700;
+  font-family: Roboto;
+  display: inline-block;
+  min-width: 101px;
+}
+.heading-35 {
+  font-size: 28px;
+  line-height: 42px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.can-find-the,
+.confirmation-email-where,
+.open-the-file,
+.with-your-esim {
+  display: block;
+}
+.open-the-file-container {
+  margin: 0;
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+}
+.paragraphbackgroundbordersh {
+  flex: 1;
+  box-shadow: 0 0 3px rgba(4, 4, 52, 0.09), 0 4px 8px rgba(4, 4, 52, 0.05),
+    0 6px 12px rgba(4, 4, 52, 0.02);
+  border-radius: 12px;
+  background-color: #fff;
+  border: 1px solid rgba(4, 4, 52, 0.1);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 31px 20px 116px 33px;
+  gap: 27.8px;
+  min-width: 231px;
+  max-width: 308px;
+  text-align: left;
+  font-size: 36px;
+  color: #000;
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1050px) {
+  .step-3 {
+    font-size: 29px;
+    line-height: 43px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-35,
+  .step-3 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .heading-35 {
+    line-height: 34px;
+  }
+  .paragraphbackgroundbordersh {
+    padding-top: 20px;
+    padding-bottom: 75px;
+    box-sizing: border-box;
+  }
+}
